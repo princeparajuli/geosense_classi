@@ -559,7 +559,7 @@ with tab3:
 st.markdown("""
 <div style='text-align: center; color: #666; margin-top: 4rem; padding: 2rem; border-top: 1px solid #222;'>
     <p style='font-size: 1.2rem; font-weight: 700; color: #FFF; text-transform: uppercase;'>
-        ⚙️ POWERED BY DEEP LEARNING & MACHINE LEARNING
+        ⚙️ POWERED BY Team GEOSENSE @Pulchowk campus
     </p>
     <p style='opacity: 0.7;'>ResNet50 + Random Forest • Real-time Analysis • GPS Integration</p>
 </div>
